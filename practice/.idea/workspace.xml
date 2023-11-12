@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e47400f-c73c-4ad8-a9ce-b68d2dc2be0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/reflect_1104/getusersmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflect_1104/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflect_1104/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflect_1104/worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread10_31/Mythread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread10_31/present.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread10_31/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WLSzUWGZbTX6RKXCr4WbUIYb1y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/91618/Desktop/java-demo/practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91618\Desktop\java-demo\practice\src" />
+      <recent name="C:\Users\91618\Desktop\java-demo\practice\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91618\Desktop\java-demo\practice\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LeGuanSuoTheread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.reflect_1104.test">
+    <configuration name="LeGuanSuoTheread.text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeGuanSuoTheread.text" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeGuanSuoTheread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintStream_Write" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IOFile.PrintStream_Write" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IOFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reflect_1104.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect_1104.test" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflect_1104.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread10_31.test" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread10_31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threak.text" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Threak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reflect_1104.test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.LeGuanSuoTheread.text" />
+        <item itemvalue="Application.text" />
+        <item itemvalue="Application.PrintStream_Write" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e47400f-c73c-4ad8-a9ce-b68d2dc2be0c" name="Changes" comment="" />
+      <created>1696510631459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696510631459</updated>
+      <workItem from="1696510633986" duration="38000" />
+      <workItem from="1697113971188" duration="4148000" />
+      <workItem from="1697201358993" duration="7061000" />
+      <workItem from="1697358621602" duration="1506000" />
+      <workItem from="1697544655155" duration="3789000" />
+      <workItem from="1697631964308" duration="12000" />
+      <workItem from="1697719004614" duration="3206000" />
+      <workItem from="1697897404708" duration="3902000" />
+      <workItem from="1697942138709" duration="406000" />
+      <workItem from="1698062042689" duration="17000" />
+      <workItem from="1698066885460" duration="49000" />
+      <workItem from="1698070040256" duration="2789000" />
+      <workItem from="1698072877358" duration="2604000" />
+      <workItem from="1698236814523" duration="1874000" />
+      <workItem from="1698244465797" duration="2220000" />
+      <workItem from="1698472166150" duration="2476000" />
+      <workItem from="1698496845776" duration="666000" />
+      <workItem from="1698557580489" duration="12482000" />
+      <workItem from="1698681640892" duration="4000" />
+      <workItem from="1698754697452" duration="5051000" />
+      <workItem from="1698760369469" duration="129000" />
+      <workItem from="1698760516391" duration="3343000" />
+      <workItem from="1699106923427" duration="2707000" />
+      <workItem from="1699280886341" duration="554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/xunlianying/huahua1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
