@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e47400f-c73c-4ad8-a9ce-b68d2dc2be0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reflect_1104/getusersmes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect_1104/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect_1104/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect_1104/worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread10_31/Mythread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread10_31/present.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread10_31/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +25,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WLSzUWGZbTX6RKXCr4WbUIYb1y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +40,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/91618/Desktop/java-demo/practice&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java-code/java-demo/practice&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
